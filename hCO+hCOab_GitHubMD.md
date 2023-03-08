@@ -706,9 +706,8 @@ against all other clusters.
 
 ------------------------------------------------------------------------
 
-<div class="figure" style="text-align: center">
+![](hCO+hCOab_GitHubMD_files/figure-gfm/marker_ident_function3.png)<!-- -->
 
-<img src="marker_ident_function3.png" alt="FindConserverdMarkers function" width="62%" />
 <p class="caption">
 FindConserverdMarkers function
 </p>
