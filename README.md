@@ -13,7 +13,9 @@ Alzheimer's disease is the most common cause of dementia and currently, more tha
 The purpose of this project is to investigate the human microglia functions in the context of Alzheimer's disease. To achieve this, we collected transcriptomic data, coming from functional microglia in human cortical organoids (hCOs), derived from human embryonic stem cells (hESCs) to study the role of microglia during inflammation induced by amyloid-β (Aβ).
 
 ## Methodology
-We explored the role of AD-linked genes in responding to Aβ treatment using mhCO cells. CRISPRi (CRISPR interference) coupled with CRISPR droplet sequencing (CROP-seq) format was used to suppress the expression of AD-linked genes,involved in endocytic trafficking, degradation, and phagocytosis of Aβ. ## immagine apoe
+We explored the role of AD-linked genes in responding to Aβ treatment using mhCO cells. CRISPRi (CRISPR interference) coupled with CRISPR droplet sequencing (CROP-seq) format was used to suppress the expression of AD-linked genes,involved in endocytic trafficking, degradation, and phagocytosis of Aβ. 
+
+![](README_figures/APOEA.png)<!-- -->
 
 We retrieved data from GEO[GSE175722](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE175722), which contains, among others: 
 GSM5345017	hCO
@@ -25,11 +27,12 @@ GSM5345024	mhCO+Aβ [CROP-seq]
 Even though in the article, the repression of AD-associated genes did not alter the expression of microglia markers in mhCOs, suggesting a successful formation of cortical organoids with microglia, our results do not seem to agree with the researcher's data. In fact, we found little to no sign of microglia activation in engineered mhCOs. We used that finding to assess the removal of microglial protective role on mhCOs parenchyma homeostasis.
 
 ## Workflow
- inserisci workflow
+![](README_figures/Workflow.png)<!-- -->
 
 ### Integration
 Our motivation for integrating diverse datasets lies in the potential for the information present in one experiment to inform the interpretation of another. In order to relate different experiments to each other, we assume that there are correspondences between datasets and that at least a subset of cells represent a shared biological state.
- inserisci immagine integration 
+![](README_figures/Integration.png)<!-- -->
+
 
 
 ## Conclusion
