@@ -19,12 +19,12 @@ We explored the role of AD-linked genes in responding to Aβ treatment using mhC
 
 
 
-We retrieved data from GEO[GSE175722](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE175722), which contains, among others: 
-GSM5345017	hCO
-GSM5345018	hCO+Aβ
-GSM5345019	mhCO
-GSM5345020	mhCO+Aβ
-GSM5345024	mhCO+Aβ [CROP-seq]
+We retrieved data from GEO [GSE175722](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE175722), which contains, among others: 
+* GSM5345017	hCO
+* GSM5345018	hCO+Aβ
+* GSM5345019	mhCO
+* GSM5345020	mhCO+Aβ
+* GSM5345024	mhCO+Aβ [CROP-seq]
 
 Even though in the article, the repression of AD-associated genes did not alter the expression of microglia markers in mhCOs, suggesting a successful formation of cortical organoids with microglia, our results do not seem to agree with the researcher's data. In fact, we found little to no sign of microglia activation in engineered mhCOs. We used that finding to assess the removal of microglial protective role on mhCOs parenchyma homeostasis.
 
