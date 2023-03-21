@@ -5,14 +5,13 @@ Mirco Macchi & Ugne Kisieliute
 2023-03-08
 
 - tissue: human cortical organoids (hCOs) derived from human embryonic
-  stem cells (hESCs) and treated Aβ. (GSE175722)
+  stem cells (hESCs) and treated Aβ. 
 - Platforms Illumina HiSeq 4000
 - species: *Homo sapiens*
 - Source: GEO
   [GSE175722](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE175722)
 
-contact: <mirco.macchi@studenti.unimi.it>;
-<ugne.kisieliute@studenti.unimi.it>
+contact: <mirco.macchi@live.it>
 
 ###### The goal of the project is to assess the induction of inflammation within the CNS, such as during inflammation induced by amyloid-β (Aβ), in human cortical organoid derived from hESCs.
 
