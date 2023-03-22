@@ -24,7 +24,7 @@ The purpose of this project is to investigate the human microglia functions in t
                                                                                                                                             
 
 ## Methodology
-<img align="right" src="README_figures/APOEA.png" width="350" height="300">
+<img align="right" src="README_figures/APOEA.png" width="300" height="250">
 We explored the role of AD-linked genes in responding to Aβ treatment using mhCO cells. CRISPRi (CRISPR interference) coupled with CRISPR  droplet sequencing (CROP-seq) format was used to suppress the expression of AD-linked genes,involved in endocytic trafficking, degradation, and phagocytosis of Aβ. 
 
 We retrieved data from GEO [GSE175722](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE175722), which contains, among others: 
