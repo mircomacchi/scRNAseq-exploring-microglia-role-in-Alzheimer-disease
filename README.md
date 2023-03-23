@@ -17,7 +17,7 @@ The purpose of this project is to investigate the human microglia functions in t
   <br />
  <br />
 <p align="center">
-<img " src="README_figures/generationofmhCOs.png" width="800" height="250">
+<img " src="README_figures/generationofmhCOs.png" width="700" height="200">
 </p>
  <br />
                                                                       
