@@ -3,7 +3,9 @@ This repository contains the analyses of transcriptomic data, derived from funct
 
 See [hCO+hCO_aβ](hCO+hCOab_GitHubMD.md) for an example of the detailed analyses.
 
-reference: Cakir, Bilal et al.,
+reference Paper: 
+
+Cakir, Bilal et al.,
 [“Expression of the transcription factor PU.1 induces the generation of microglia-like cells in human cortical organoids.”](https://www.nature.com/articles/s41467-022-28043-y)
 , Nature communications vol. 13,1 430. 20 Jan. 2022
 
