@@ -1,7 +1,7 @@
 # scRNA-seq exploring microglia role in Alzheimer disease
 This repository contains the analyses of transcriptomic data, derived from functional microglia in human cortical organoids (hCOs), derived from human embryonic stem cells (hESCs) to study the role of microglia during inflammation induced by amyloid-β (Aβ) in Alzheimer's disease(AD).
 
-See [hCO+hCO_aβ](hCO+hCO_aβ.md) for an example of the detailed analyses.
+See [hCO+hCO_aβ](hCO+hCOaβ.md) for an example of the detailed analyses.
 
 reference Paper: 
 
