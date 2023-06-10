@@ -2,7 +2,6 @@ Human cortical organoids derived from human embryonic stem cells with
 and without Aβ treatment: scRNA seq analysis.
 ================
 Mirco Macchi & Ugne Kisieliute
-2023-03-08
 
 - tissue: human cortical organoids (hCOs) derived from human embryonic
   stem cells (hESCs) and treated Aβ. 
