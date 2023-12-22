@@ -70,6 +70,6 @@ To this day, no effective cure for Alzheimer’s disease exists. Drugs targeting
 
 Further studies with organoids containing microglia-like cells could be carried out. It is necessary to continue it by integrating data with transcriptomic data profiles coming from AD patients or by engrafting cells in the mouse brain to produce an in-vivo model.
 
-
+Actively mainteined by Mirco Macchi
 
 
