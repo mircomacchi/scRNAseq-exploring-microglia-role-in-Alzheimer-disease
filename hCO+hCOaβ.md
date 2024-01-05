@@ -1557,8 +1557,8 @@ To keep things consistent, we’ll define a pleasing color scheme.
 colors <- colorRampPalette(c("#0348A6", "#7AC5FF", "#C6FDEC", "#FFB433", "#FF4B20"))
 ```
 
-Heatmaps A simple way to approach visualizations for enrichment results
-is the heatmap:
+#### Heatmaps 
+A simple way to approach visualizations for enrichment results is the heatmap:
 
 ``` r
 dittoHeatmap(hCO.combined, genes = NULL, metas = names(ES.hCO), 
