@@ -1623,7 +1623,7 @@ multi_dittoPlot(hCO.combined, vars = c("KEGG_ALZHEIMERS_DISEASE", "KEGG_PARKINSO
 
 <img src="hCO+hCOab_GitHubMD_files/figure-gfm/unnamed-chunk-82-1.png" style="display: block; margin: auto;" />
 
-- Hex Density Enrichment Plots
+#### Hex Density Enrichment Plots
 
 We can also compare the distribution of enrichment scores of 2 distinct
 gene sets across all single cells using the dittoScatterHex() function.
