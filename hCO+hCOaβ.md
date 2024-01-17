@@ -417,7 +417,7 @@ DefaultAssay(hCO.combined) <- "integrated"
 ``` r
 hCO.combined <- ScaleData(hCO.combined, verbose = FALSE)
 hCO.combined <- RunPCA(hCO.combined, npcs = 30, verbose = FALSE)
-hCO.combined[["pca"]] #' MOST VARIABLE FREATURES
+hCO.combined[["pca"]]
 ```
 
     ## A dimensional reduction object with key PC_ 
